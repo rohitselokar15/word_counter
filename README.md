@@ -1,1 +1,1 @@
-Count words and Character using javascript
+# Count words and Character using javascript
